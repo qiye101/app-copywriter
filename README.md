@@ -2,7 +2,7 @@
 
 一个基于 AI 的文案生成工具，帮助自媒体创作者快速生成小红书文案、抖音脚本、公众号标题。
 
-**在线演示：** https://your-domain.com
+**在线演示：** https://vip-copywriter.netlify.app
 
 ---
 
